@@ -23,6 +23,12 @@ This project demonstrates a full Jenkins CI/CD pipeline for a Java web applicati
 - **Test Server**
 - **Production Server**
 
+## 📸 Jenkins Pipeline Screenshot
+
+Here’s the Stage View from Jenkins:
+
+![Jenkins Pipeline](jenkins_pipeline.png)
+
 ## 💡 How to Run
 1. Make sure Jenkins has Maven + JDK installed.
 2. Configure pipeline with your GitHub repo + Jenkinsfile.
